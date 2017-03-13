@@ -10,18 +10,19 @@ OPT:
 	echo "\n" >> $(OUTPUT)
 
 lstatic: main.c
-	cp ../1/libstatic.a .
+	cp ../zad1/libstatic.a .
 	$(CC) $(CFLAGS) $(OPT) $^ -L. -$@ -o $@.out
 	echo "static\n" >> $(OUTPUT)
 	./$@.out >> result.txt
 
 lshared: main.c
-	cp ../1/libshared.so .
+	cp ../zad1/libshared.so .
 	$(CC) $(CFLAGS) $(OPT) $^ -L. -$@ -o $@.out
 	echo "shared\n" >> $(OUTPUT)
 	./$@.out >> result.txt
 
 ldynamic: mainDyn.c
+	cp ../zad1/libshared.so .
 	$(CC) $(CFLAGS) $(OPT) $^ -o $@.out -ldl
 	echo "dynamic\n" >> $(OUTPUT)
 	./$@.out >> result.txt

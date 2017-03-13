@@ -1,5 +1,5 @@
-#include "../1/contactsT.h"
-#include "../1/contactsL.h"
+#include "../zad1/contactsT.h"
+#include "../zad1/contactsL.h"
 #include <stdio.h>
 #include <time.h> //dla clock i CLOCK_PER_SEC
 #include <sys/times.h> //dla times

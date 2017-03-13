@@ -1,5 +1,5 @@
-#include "../1/contactsT.h"
-#include "../1/contactsL.h"
+#include "../zad1/contactsT.h"
+#include "../zad1/contactsL.h"
 #include <stdio.h>
 #include <time.h> //dla clock i CLOCK_PER_SEC
 #include <sys/times.h> //dla times
@@ -11,7 +11,7 @@ void checkTimes(struct tms *prevTimes, clock_t *prevReal, struct tms *firstTimes
 
 int main(void){
 
-    void* library = dlopen("../1/libshared.so", RTLD_LAZY);
+    void* library = dlopen("libshared.so", RTLD_LAZY);
 
     struct ContactsL* (*createBookL)();
     createBookL = dlsym(library, "createBookL");

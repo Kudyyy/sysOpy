@@ -6,7 +6,7 @@ OUTPUT=result.txt
 all: debbug
 
 debbug:	main.c
-	cp ../1/libstatic.a .
+	cp ../zad1/libstatic.a .
 	$(CC) -g $(CFLAGS) $(OPT) $^ -L. -lstatic -o $@.out
 	./$@.out
 
