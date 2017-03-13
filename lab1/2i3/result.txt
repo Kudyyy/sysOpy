@@ -1,0 +1,640 @@
+-O
+
+
+static
+
+
+	Time:				R 0.001826	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.008173	S 0.000000	U 0.000000
+	From the previous check:	R 0.008173	S 0.000000	U 0.000000
+	Time:				R 0.009999	S 0.000000	U 0.000000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.008199	S 0.000000	U 0.000000
+	From the previous check:	R 0.000026	S 0.000000	U 0.000000
+	Time:				R 0.010025	S 0.000000	U 0.000000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.647696	S 0.020000	U 3.620000
+	From the previous check:	R 3.639497	S 0.020000	U 3.620000
+	Time:				R 3.649522	S 0.020000	U 3.620000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.647708	S 0.020000	U 3.620000
+	From the previous check:	R 0.000012	S 0.000000	U 0.000000
+	Time:				R 3.649534	S 0.020000	U 3.620000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.647952	S 0.020000	U 3.620000
+	From the previous check:	R 0.000244	S 0.000000	U 0.000000
+	Time:				R 3.649778	S 0.020000	U 3.620000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.647978	S 0.020000	U 3.620000
+	From the previous check:	R 0.000026	S 0.000000	U 0.000000
+	Time:				R 3.649804	S 0.020000	U 3.620000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.648144	S 0.020000	U 3.620000
+	From the previous check:	R 0.000166	S 0.000000	U 0.000000
+	Time:				R 3.649970	S 0.020000	U 3.620000
+
+Deleting the list.
+
+	From the first check:		R 3.660207	S 0.020000	U 3.630000
+	From the previous check:	R 0.012063	S 0.000000	U 0.010000
+	Time:				R 3.662033	S 0.020000	U 3.630000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.662045	S 0.020000	U 3.630000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.047228	S 0.000000	U 0.050000
+	From the previous check:	R 0.047228	S 0.000000	U 0.050000
+	Time:				R 3.709273	S 0.020000	U 3.680000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.047259	S 0.000000	U 0.050000
+	From the previous check:	R 0.000031	S 0.000000	U 0.000000
+	Time:				R 3.709304	S 0.020000	U 3.680000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.086868	S 0.000000	U 0.090000
+	From the previous check:	R 0.039609	S 0.000000	U 0.040000
+	Time:				R 3.748913	S 0.020000	U 3.720000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.086881	S 0.000000	U 0.090000
+	From the previous check:	R 0.000013	S 0.000000	U 0.000000
+	Time:				R 3.748926	S 0.020000	U 3.720000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.086887	S 0.000000	U 0.090000
+	From the previous check:	R 0.000006	S 0.000000	U 0.000000
+	Time:				R 3.748932	S 0.020000	U 3.720000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.086892	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.748937	S 0.020000	U 3.720000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.086897	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.748942	S 0.020000	U 3.720000
+
+Deleting the tree.
+
+	From the first check:		R 0.098169	S 0.000000	U 0.100000
+	From the previous check:	R 0.011272	S 0.000000	U 0.010000
+	Time:				R 3.760214	S 0.020000	U 3.730000
+
+shared
+
+
+	Time:				R 0.001950	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.009223	S 0.000000	U 0.000000
+	From the previous check:	R 0.009223	S 0.000000	U 0.000000
+	Time:				R 0.011173	S 0.000000	U 0.000000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.009239	S 0.000000	U 0.000000
+	From the previous check:	R 0.000016	S 0.000000	U 0.000000
+	Time:				R 0.011189	S 0.000000	U 0.000000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.514652	S 0.010000	U 3.500000
+	From the previous check:	R 3.505413	S 0.010000	U 3.500000
+	Time:				R 3.516602	S 0.010000	U 3.500000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.514669	S 0.010000	U 3.500000
+	From the previous check:	R 0.000017	S 0.000000	U 0.000000
+	Time:				R 3.516619	S 0.010000	U 3.500000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.514913	S 0.010000	U 3.500000
+	From the previous check:	R 0.000244	S 0.000000	U 0.000000
+	Time:				R 3.516863	S 0.010000	U 3.500000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.514937	S 0.010000	U 3.500000
+	From the previous check:	R 0.000024	S 0.000000	U 0.000000
+	Time:				R 3.516887	S 0.010000	U 3.500000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.515103	S 0.010000	U 3.500000
+	From the previous check:	R 0.000166	S 0.000000	U 0.000000
+	Time:				R 3.517053	S 0.010000	U 3.500000
+
+Deleting the list.
+
+	From the first check:		R 3.524279	S 0.010000	U 3.510000
+	From the previous check:	R 0.009176	S 0.000000	U 0.010000
+	Time:				R 3.526229	S 0.010000	U 3.510000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.526239	S 0.010000	U 3.510000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.046801	S 0.000000	U 0.040000
+	From the previous check:	R 0.046801	S 0.000000	U 0.040000
+	Time:				R 3.573040	S 0.010000	U 3.550000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.046829	S 0.000000	U 0.040000
+	From the previous check:	R 0.000028	S 0.000000	U 0.000000
+	Time:				R 3.573068	S 0.010000	U 3.550000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.082845	S 0.000000	U 0.080000
+	From the previous check:	R 0.036016	S 0.000000	U 0.040000
+	Time:				R 3.609084	S 0.010000	U 3.590000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.082863	S 0.000000	U 0.080000
+	From the previous check:	R 0.000018	S 0.000000	U 0.000000
+	Time:				R 3.609102	S 0.010000	U 3.590000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.082867	S 0.000000	U 0.080000
+	From the previous check:	R 0.000004	S 0.000000	U 0.000000
+	Time:				R 3.609106	S 0.010000	U 3.590000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.082873	S 0.000000	U 0.080000
+	From the previous check:	R 0.000006	S 0.000000	U 0.000000
+	Time:				R 3.609112	S 0.010000	U 3.590000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.082877	S 0.000000	U 0.080000
+	From the previous check:	R 0.000004	S 0.000000	U 0.000000
+	Time:				R 3.609116	S 0.010000	U 3.590000
+
+Deleting the tree.
+
+	From the first check:		R 0.095770	S 0.000000	U 0.090000
+	From the previous check:	R 0.012893	S 0.000000	U 0.010000
+	Time:				R 3.622009	S 0.010000	U 3.600000
+
+dynamic
+
+
+	Time:				R 0.002501	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.011484	S 0.000000	U 0.010000
+	From the previous check:	R 0.011484	S 0.000000	U 0.010000
+	Time:				R 0.013985	S 0.000000	U 0.010000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.011502	S 0.000000	U 0.010000
+	From the previous check:	R 0.000018	S 0.000000	U 0.000000
+	Time:				R 0.014003	S 0.000000	U 0.010000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.474901	S 0.010000	U 3.460000
+	From the previous check:	R 3.463399	S 0.010000	U 3.450000
+	Time:				R 3.477402	S 0.010000	U 3.460000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.474913	S 0.010000	U 3.460000
+	From the previous check:	R 0.000012	S 0.000000	U 0.000000
+	Time:				R 3.477414	S 0.010000	U 3.460000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.475161	S 0.010000	U 3.460000
+	From the previous check:	R 0.000248	S 0.000000	U 0.000000
+	Time:				R 3.477662	S 0.010000	U 3.460000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.475188	S 0.010000	U 3.460000
+	From the previous check:	R 0.000027	S 0.000000	U 0.000000
+	Time:				R 3.477689	S 0.010000	U 3.460000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.475354	S 0.010000	U 3.460000
+	From the previous check:	R 0.000166	S 0.000000	U 0.000000
+	Time:				R 3.477855	S 0.010000	U 3.460000
+
+Deleting the list.
+
+	From the first check:		R 3.484476	S 0.010000	U 3.470000
+	From the previous check:	R 0.009122	S 0.000000	U 0.010000
+	Time:				R 3.486977	S 0.010000	U 3.470000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.486986	S 0.010000	U 3.470000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.048473	S 0.000000	U 0.040000
+	From the previous check:	R 0.048473	S 0.000000	U 0.040000
+	Time:				R 3.535459	S 0.010000	U 3.510000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.048509	S 0.000000	U 0.040000
+	From the previous check:	R 0.000036	S 0.000000	U 0.000000
+	Time:				R 3.535495	S 0.010000	U 3.510000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.092734	S 0.000000	U 0.090000
+	From the previous check:	R 0.044225	S 0.000000	U 0.050000
+	Time:				R 3.579720	S 0.010000	U 3.560000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.092746	S 0.000000	U 0.090000
+	From the previous check:	R 0.000012	S 0.000000	U 0.000000
+	Time:				R 3.579732	S 0.010000	U 3.560000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.092752	S 0.000000	U 0.090000
+	From the previous check:	R 0.000006	S 0.000000	U 0.000000
+	Time:				R 3.579738	S 0.010000	U 3.560000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.092757	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.579743	S 0.010000	U 3.560000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.092761	S 0.000000	U 0.090000
+	From the previous check:	R 0.000004	S 0.000000	U 0.000000
+	Time:				R 3.579747	S 0.010000	U 3.560000
+
+Deleting the tree.
+
+	From the first check:		R 0.104104	S 0.000000	U 0.100000
+	From the previous check:	R 0.011343	S 0.000000	U 0.010000
+	Time:				R 3.591090	S 0.010000	U 3.570000
+
+-O2
+
+
+static
+
+
+	Time:				R 0.002320	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.008822	S 0.000000	U 0.000000
+	From the previous check:	R 0.008822	S 0.000000	U 0.000000
+	Time:				R 0.011142	S 0.000000	U 0.000000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.008839	S 0.000000	U 0.000000
+	From the previous check:	R 0.000017	S 0.000000	U 0.000000
+	Time:				R 0.011159	S 0.000000	U 0.000000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.481194	S 0.010000	U 3.470000
+	From the previous check:	R 3.472355	S 0.010000	U 3.470000
+	Time:				R 3.483514	S 0.010000	U 3.470000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.481206	S 0.010000	U 3.470000
+	From the previous check:	R 0.000012	S 0.000000	U 0.000000
+	Time:				R 3.483526	S 0.010000	U 3.470000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.481447	S 0.010000	U 3.470000
+	From the previous check:	R 0.000241	S 0.000000	U 0.000000
+	Time:				R 3.483767	S 0.010000	U 3.470000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.481474	S 0.010000	U 3.470000
+	From the previous check:	R 0.000027	S 0.000000	U 0.000000
+	Time:				R 3.483794	S 0.010000	U 3.470000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.481637	S 0.010000	U 3.470000
+	From the previous check:	R 0.000163	S 0.000000	U 0.000000
+	Time:				R 3.483957	S 0.010000	U 3.470000
+
+Deleting the list.
+
+	From the first check:		R 3.490587	S 0.010000	U 3.470000
+	From the previous check:	R 0.008950	S 0.000000	U 0.000000
+	Time:				R 3.492907	S 0.010000	U 3.470000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.492917	S 0.010000	U 3.470000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.044309	S 0.000000	U 0.050000
+	From the previous check:	R 0.044309	S 0.000000	U 0.050000
+	Time:				R 3.537226	S 0.010000	U 3.520000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.044338	S 0.000000	U 0.050000
+	From the previous check:	R 0.000029	S 0.000000	U 0.000000
+	Time:				R 3.537255	S 0.010000	U 3.520000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.087011	S 0.000000	U 0.090000
+	From the previous check:	R 0.042673	S 0.000000	U 0.040000
+	Time:				R 3.579928	S 0.010000	U 3.560000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.087022	S 0.000000	U 0.090000
+	From the previous check:	R 0.000011	S 0.000000	U 0.000000
+	Time:				R 3.579939	S 0.010000	U 3.560000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.087027	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.579944	S 0.010000	U 3.560000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.087032	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.579949	S 0.010000	U 3.560000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.087035	S 0.000000	U 0.090000
+	From the previous check:	R 0.000003	S 0.000000	U 0.000000
+	Time:				R 3.579952	S 0.010000	U 3.560000
+
+Deleting the tree.
+
+	From the first check:		R 0.097265	S 0.000000	U 0.100000
+	From the previous check:	R 0.010230	S 0.000000	U 0.010000
+	Time:				R 3.590182	S 0.010000	U 3.570000
+
+shared
+
+
+	Time:				R 0.002102	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.008722	S 0.000000	U 0.000000
+	From the previous check:	R 0.008722	S 0.000000	U 0.000000
+	Time:				R 0.010824	S 0.000000	U 0.000000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.008737	S 0.000000	U 0.000000
+	From the previous check:	R 0.000015	S 0.000000	U 0.000000
+	Time:				R 0.010839	S 0.000000	U 0.000000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.440711	S 0.010000	U 3.430000
+	From the previous check:	R 3.431974	S 0.010000	U 3.430000
+	Time:				R 3.442813	S 0.010000	U 3.430000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.440728	S 0.010000	U 3.430000
+	From the previous check:	R 0.000017	S 0.000000	U 0.000000
+	Time:				R 3.442830	S 0.010000	U 3.430000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.440972	S 0.010000	U 3.430000
+	From the previous check:	R 0.000244	S 0.000000	U 0.000000
+	Time:				R 3.443074	S 0.010000	U 3.430000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.440998	S 0.010000	U 3.430000
+	From the previous check:	R 0.000026	S 0.000000	U 0.000000
+	Time:				R 3.443100	S 0.010000	U 3.430000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.441162	S 0.010000	U 3.430000
+	From the previous check:	R 0.000164	S 0.000000	U 0.000000
+	Time:				R 3.443264	S 0.010000	U 3.430000
+
+Deleting the list.
+
+	From the first check:		R 3.450768	S 0.010000	U 3.430000
+	From the previous check:	R 0.009606	S 0.000000	U 0.000000
+	Time:				R 3.452870	S 0.010000	U 3.430000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.452878	S 0.010000	U 3.430000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.049941	S 0.000000	U 0.050000
+	From the previous check:	R 0.049941	S 0.000000	U 0.050000
+	Time:				R 3.502819	S 0.010000	U 3.480000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.049971	S 0.000000	U 0.050000
+	From the previous check:	R 0.000030	S 0.000000	U 0.000000
+	Time:				R 3.502849	S 0.010000	U 3.480000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.094146	S 0.000000	U 0.100000
+	From the previous check:	R 0.044175	S 0.000000	U 0.050000
+	Time:				R 3.547024	S 0.010000	U 3.530000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.094163	S 0.000000	U 0.100000
+	From the previous check:	R 0.000017	S 0.000000	U 0.000000
+	Time:				R 3.547041	S 0.010000	U 3.530000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.094168	S 0.000000	U 0.100000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.547046	S 0.010000	U 3.530000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.094173	S 0.000000	U 0.100000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.547051	S 0.010000	U 3.530000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.094178	S 0.000000	U 0.100000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 3.547056	S 0.010000	U 3.530000
+
+Deleting the tree.
+
+	From the first check:		R 0.106607	S 0.000000	U 0.110000
+	From the previous check:	R 0.012429	S 0.000000	U 0.010000
+	Time:				R 3.559485	S 0.010000	U 3.540000
+
+dynamic
+
+
+	Time:				R 0.002891	S 0.000000	U 0.000000
+
+Creating the list of 9998 elements.
+
+	From the first check:		R 0.010145	S 0.000000	U 0.000000
+	From the previous check:	R 0.010145	S 0.000000	U 0.000000
+	Time:				R 0.013036	S 0.000000	U 0.000000
+
+Adding 2 contacts to list.
+
+	From the first check:		R 0.010172	S 0.000000	U 0.000000
+	From the previous check:	R 0.000027	S 0.000000	U 0.000000
+	Time:				R 0.013063	S 0.000000	U 0.000000
+
+Sorting the list by birth.
+
+	From the first check:		R 3.928995	S 0.060000	U 3.870000
+	From the previous check:	R 3.918823	S 0.060000	U 3.870000
+	Time:				R 3.931886	S 0.060000	U 3.870000
+
+Finding youngest contact in the list. 
+
+	From the first check:		R 3.929009	S 0.060000	U 3.870000
+	From the previous check:	R 0.000014	S 0.000000	U 0.000000
+	Time:				R 3.931900	S 0.060000	U 3.870000
+
+Finding oldest contact in the list. 
+
+	From the first check:		R 3.929252	S 0.060000	U 3.870000
+	From the previous check:	R 0.000243	S 0.000000	U 0.000000
+	Time:				R 3.932143	S 0.060000	U 3.870000
+
+Deleting youngest contact from the list.
+
+	From the first check:		R 3.929279	S 0.060000	U 3.870000
+	From the previous check:	R 0.000027	S 0.000000	U 0.000000
+	Time:				R 3.932170	S 0.060000	U 3.870000
+
+Deleting oldest contact from the list.
+
+	From the first check:		R 3.929442	S 0.060000	U 3.870000
+	From the previous check:	R 0.000163	S 0.000000	U 0.000000
+	Time:				R 3.932333	S 0.060000	U 3.870000
+
+Deleting the list.
+
+	From the first check:		R 3.937611	S 0.060000	U 3.870000
+	From the previous check:	R 0.008169	S 0.000000	U 0.000000
+	Time:				R 3.940502	S 0.060000	U 3.870000
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	Time:				R 3.940508	S 0.060000	U 3.870000
+
+Creating the tree of 9998 elements.
+
+	From the first check:		R 0.047351	S 0.000000	U 0.050000
+	From the previous check:	R 0.047351	S 0.000000	U 0.050000
+	Time:				R 3.987859	S 0.060000	U 3.920000
+
+Adding 2 contacts to tree.
+
+	From the first check:		R 0.047374	S 0.000000	U 0.050000
+	From the previous check:	R 0.000023	S 0.000000	U 0.000000
+	Time:				R 3.987882	S 0.060000	U 3.920000
+
+Sorting the tree by birth.
+
+	From the first check:		R 0.090924	S 0.000000	U 0.090000
+	From the previous check:	R 0.043550	S 0.000000	U 0.040000
+	Time:				R 4.031432	S 0.060000	U 3.960000
+
+Finding root contact in the tree. 
+
+	From the first check:		R 0.090935	S 0.000000	U 0.090000
+	From the previous check:	R 0.000011	S 0.000000	U 0.000000
+	Time:				R 4.031443	S 0.060000	U 3.960000
+
+Finding leaf contact in the tree. 
+
+	From the first check:		R 0.090939	S 0.000000	U 0.090000
+	From the previous check:	R 0.000004	S 0.000000	U 0.000000
+	Time:				R 4.031447	S 0.060000	U 3.960000
+
+Deleting leaf contact from the tree.
+
+	From the first check:		R 0.090944	S 0.000000	U 0.090000
+	From the previous check:	R 0.000005	S 0.000000	U 0.000000
+	Time:				R 4.031452	S 0.060000	U 3.960000
+
+Deleting root contact from the tree.
+
+	From the first check:		R 0.090948	S 0.000000	U 0.090000
+	From the previous check:	R 0.000004	S 0.000000	U 0.000000
+	Time:				R 4.031456	S 0.060000	U 3.960000
+
+Deleting the tree.
+
+	From the first check:		R 0.101318	S 0.000000	U 0.100000
+	From the previous check:	R 0.010370	S 0.000000	U 0.010000
+	Time:				R 4.041826	S 0.060000	U 3.970000
+
+
+
+Wyniki sa rozne, ich rozbieznosc wynika z losowosci danych co w duzym stopniu wplywa na czas sortowania,
+co nie powazala jednoznacznie stwierdzic ktore z wywolan jest szybsze.

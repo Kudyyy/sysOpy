@@ -1,0 +1,17 @@
+Modyfikacja:
+88 | bookL = deletePersonL(sb1,bookL); -> deletePersonL(sb1,bookL);
+
+Uruchomienie gdb:
+gdb debbug.out core.[numer procesu]
+w gdb:
+bt (lub 'bt full' dla dokladniejszych informacji) - > zwroci nam stack trace z
+ czasu kiedy wystapil crash programu, przykladowy output:
+#0  0x00007ff12fd4d93c in free () from /lib64/libc.so.6
+#1  0x00000000004026b7 in freePerson ()
+#2  0x00000000004012c7 in deleteContactsL ()
+#3  0x0000000000400ecd in main () at main.c:96
+widac ze program sie wysypal przy w main'ie przy wywolaniu funkcji
+ deleteContactsL() w ktorej zostala wywolana kolejna funkcja freePerson()
+ ktora zas wywolala funkcje free() - wczesniej usunelismy osobe i nie
+ uaktualnilismy wskaznika wiec ma to sens. 
+ 
