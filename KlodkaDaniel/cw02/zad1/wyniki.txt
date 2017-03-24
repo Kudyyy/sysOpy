@@ -1,0 +1,424 @@
+
+
+Test with size 4 and number of records 1000
+
+
+
+Generate data
+
+
+	Time:			R 0.001809	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.004919	S 0.000000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.001746	S 0.000000	U 0.000000
+
+
+	From the previous:	R 1.453310	S 1.180000	U 0.270000
+
+libSort
+
+
+	Time:			R 0.001864	S 0.000000	U 0.000000
+
+
+	From the previous:	R 1.537156	S 1.020000	U 0.510000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.001942	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.004350	S 0.000000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001787	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.006102	S 0.000000	U 0.000000
+
+
+
+Test with size 4 and number of records 2000
+
+
+
+Generate data
+
+
+	Time:			R 0.002067	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.005345	S 0.000000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.002122	S 0.000000	U 0.000000
+
+
+	From the previous:	R 5.875499	S 4.760000	U 1.110000
+
+libSort
+
+
+	Time:			R 0.001976	S 0.000000	U 0.000000
+
+
+	From the previous:	R 6.188506	S 4.320000	U 1.860000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.002074	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.008524	S 0.000000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001804	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.012590	S 0.000000	U 0.000000
+
+
+
+Test with size 512 and number of records 1000
+
+
+
+Generate data
+
+
+	Time:			R 0.001971	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.040816	S 0.040000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.002170	S 0.000000	U 0.000000
+
+
+	From the previous:	R 1.588206	S 1.310000	U 0.270000
+
+libSort
+
+
+	Time:			R 0.002113	S 0.000000	U 0.000000
+
+
+	From the previous:	R 1.903622	S 1.370000	U 0.530000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.002193	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.005467	S 0.000000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001741	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.007024	S 0.000000	U 0.000000
+
+
+
+Test with size 512 and number of records 2000
+
+
+
+Generate data
+
+
+	Time:			R 0.001733	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.084341	S 0.080000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.001820	S 0.000000	U 0.000000
+
+
+	From the previous:	R 6.525849	S 5.400000	U 1.120000
+
+libSort
+
+
+	Time:			R 0.001844	S 0.000000	U 0.000000
+
+
+	From the previous:	R 7.419294	S 5.390000	U 2.030000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.001725	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.009564	S 0.000000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001788	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.013418	S 0.010000	U 0.000000
+
+
+
+Test with size 4096 and number of records 1000
+
+
+
+Generate data
+
+
+	Time:			R 0.001818	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.330915	S 0.330000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.001998	S 0.000000	U 0.000000
+
+
+	From the previous:	R 2.155256	S 1.860000	U 0.290000
+
+libSort
+
+
+	Time:			R 0.001806	S 0.000000	U 0.000000
+
+
+	From the previous:	R 2.174177	S 1.490000	U 0.670000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.001996	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.007064	S 0.000000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001797	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.008640	S 0.000000	U 0.000000
+
+
+
+Test with size 4096 and number of records 2000
+
+
+
+Generate data
+
+
+	Time:			R 0.001818	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.723801	S 0.720000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.002192	S 0.000000	U 0.000000
+
+
+	From the previous:	R 8.647463	S 7.500000	U 1.130000
+
+libSort
+
+
+	Time:			R 0.002216	S 0.000000	U 0.000000
+
+
+	From the previous:	R 8.378962	S 5.790000	U 2.580000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.001998	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.015209	S 0.010000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001872	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.019174	S 0.010000	U 0.000000
+
+
+
+Test with size 8192 and number of records 1000
+
+
+
+Generate data
+
+
+	Time:			R 0.002221	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.647304	S 0.640000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.001956	S 0.000000	U 0.000000
+
+
+	From the previous:	R 2.976364	S 2.680000	U 0.290000
+
+libSort
+
+
+	Time:			R 0.001862	S 0.000000	U 0.000000
+
+
+	From the previous:	R 3.019602	S 2.280000	U 0.730000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.001975	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.010253	S 0.010000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.003107	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.013838	S 0.010000	U 0.000000
+
+
+
+Test with size 8192 and number of records 2000
+
+
+
+Generate data
+
+
+	Time:			R 0.002165	S 0.000000	U 0.000000
+
+
+	From the previous:	R 1.427018	S 1.420000	U 0.000000
+
+Sorting test
+
+
+sysSort
+
+
+	Time:			R 0.001933	S 0.000000	U 0.000000
+
+
+	From the previous:	R 11.758923	S 10.560000	U 1.190000
+
+libSort
+
+
+	Time:			R 0.001912	S 0.000000	U 0.000000
+
+
+	From the previous:	R 10.512086	S 7.910000	U 2.600000
+
+
+Shuffle test
+
+
+sysShuffle
+
+
+	Time:			R 0.002005	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.019431	S 0.010000	U 0.000000
+
+libShuffle
+
+
+	Time:			R 0.001821	S 0.000000	U 0.000000
+
+
+	From the previous:	R 0.025211	S 0.020000	U 0.000000
+
