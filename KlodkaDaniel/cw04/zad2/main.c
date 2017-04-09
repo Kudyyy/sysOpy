@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <signal.h>
+#include <errno.h>
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <sys/resource.h>
@@ -143,14 +144,14 @@ int main(int argc, char* argv[]){
   	}
     if(signal(SIGINT,sigint_handler) == SIG_ERR) printf("\nCan't catch SIGINT\n");
 
-
-  	while(1){
-  		usleep(1000);
-  	}
-
+    pid_t pid;
+  	while(pid = waitpid(-1, NULL, 0)) {
+      if (errno == ECHILD) {
+        break;
+      }  
+    }
   	free(pids_of_kids);
   	free(pending);
-    wait(NULL);
   	printf("\nKONIEC MAIN\n");
 
   	return 0;
