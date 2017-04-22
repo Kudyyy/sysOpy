@@ -172,7 +172,6 @@ int get_server_queue_id(void){
 
 
 
-// todo -> refine this
 void send_msg_to(int server_que, msg_st *msg){
 	if(msgsnd(server_que, msg, MSG_SIZE, 0) < 0) {
         fprintf(stderr,"Msgsnd error\n");
